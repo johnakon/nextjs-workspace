@@ -7,7 +7,7 @@ function ProductDetails() {
 
     return (
         <>
-            Returns details about a Product {productid}
+            Returns details about Product {productid}
         </>
     )
 }

@@ -12,4 +12,6 @@ function ProductDetails() {
     )
 }
 
-export default ProductDetails
+//export default ProductDetails
+
+// shift to use [productId] folder instead of [productId].js
